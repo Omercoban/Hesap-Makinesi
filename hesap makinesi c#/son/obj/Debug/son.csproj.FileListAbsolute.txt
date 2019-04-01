@@ -1,0 +1,20 @@
+C:\Users\Ömer\Desktop\son\son\obj\Debug\son.csprojAssemblyReference.cache
+C:\Users\Ömer\Desktop\son\son\obj\Debug\son.Form1.resources
+C:\Users\Ömer\Desktop\son\son\obj\Debug\son.Properties.Resources.resources
+C:\Users\Ömer\Desktop\son\son\obj\Debug\son.csproj.GenerateResource.cache
+C:\Users\Ömer\Desktop\son\son\obj\Debug\son.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\son\son\bin\Debug\son.exe.config
+C:\Users\Ömer\Desktop\son\son\bin\Debug\son.exe
+C:\Users\Ömer\Desktop\son\son\bin\Debug\son.pdb
+C:\Users\Ömer\Desktop\son\son\obj\Debug\son.exe
+C:\Users\Ömer\Desktop\son\son\obj\Debug\son.pdb
+C:\Users\Ömer\Desktop\Visual Studio\son\son\bin\Debug\son.exe.config
+C:\Users\Ömer\Desktop\Visual Studio\son\son\bin\Debug\son.exe
+C:\Users\Ömer\Desktop\Visual Studio\son\son\bin\Debug\son.pdb
+C:\Users\Ömer\Desktop\Visual Studio\son\son\obj\Debug\son.csprojAssemblyReference.cache
+C:\Users\Ömer\Desktop\Visual Studio\son\son\obj\Debug\son.Form1.resources
+C:\Users\Ömer\Desktop\Visual Studio\son\son\obj\Debug\son.Properties.Resources.resources
+C:\Users\Ömer\Desktop\Visual Studio\son\son\obj\Debug\son.csproj.GenerateResource.cache
+C:\Users\Ömer\Desktop\Visual Studio\son\son\obj\Debug\son.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\Visual Studio\son\son\obj\Debug\son.exe
+C:\Users\Ömer\Desktop\Visual Studio\son\son\obj\Debug\son.pdb
